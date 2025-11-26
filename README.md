@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm 
-  <a href="www.linkedin.com/in/rohitkumbhar1865" target="_blank">Rohit Kumbhar</a> 
+  <a href="https://www.linkedin.com/in/rohitkumbhar1865/" target="_blank">Rohit Kumbhar</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
