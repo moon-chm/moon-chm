@@ -191,9 +191,13 @@ me.say_hi()
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🎵 Vibing to
+### 🎵 Find Me On Spotify
 
-[![Spotify](https://novatorem-moon-chm.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/g45kfqhzfacm18g5ccvn1nb0k)
+
+</div>
 
 ---
 
