@@ -62,10 +62,10 @@
   <a href="https://www.instagram.com/" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
   </a>
-  <a href="mailto:darshanchougule821@gmail.com" target="_blank" style="margin-right: 15px;">
+  <a href="mailto:rohitak1865@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/darshan-chougule-2128652a6/" target="_blank" style="margin-right: 15px;">
+  <a href="https://www.linkedin.com/in/rohitkumbhar1865/" target="_blank" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/" target="_blank">
