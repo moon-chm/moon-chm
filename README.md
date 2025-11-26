@@ -1,74 +1,79 @@
-<h1 align="center">
-  Hi there, I'm 
+<h1 align="center">Hi, I'm 
   <a href="https://www.linkedin.com/in/rohitkumbhar1865/" target="_blank">Rohit Kumbhar</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey&left_text=Profile%20Views" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=moon-chm.moon-chm&left_color=darkslategrey&left_text=Profile%20Views" />
 </div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="left" valign="top" width="70%">
-      <p>
-        I’m <strong>Rohit Kumbhar</strong>, an undergraduate student specializing in <strong>Artificial Intelligence and Data Science</strong>.
-      </p>
-      <ul>
-        <li>📘 Currently focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Python development</strong></li>
-        <li>🔧 Exploring the intersection of <strong>AI, IoT, and full-stack development</strong></li>
-        <li>🚀 Actively involved in <strong>hackathons</strong> and project-based learning</li>
-        <li>💡 Passionate about building practical, real-world solutions</li>
-        <li>🌱 Committed to continuous learning and technical growth</li>
-        <li>🌍 Driven to apply technology for <strong>social good</strong> and <strong>rural impact</strong></li>
-      </ul>
-    </td>
-    <td align="right" width="30%">
-      <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="200" />
-    </td>
-  </tr>
-</table>
 
 ---
 
-### 📈 My GitHub Stats
+## 👨‍💻 About Me
+
+I’m **Rohit Kumbhar**, an undergraduate specializing in  
+**Artificial Intelligence & Data Science**.
+
+- 📘 Currently exploring **Machine Learning**, **Data Science**, and **Python development**  
+- 🔧 Building solutions at the intersection of **AI × IoT × Full-Stack**  
+- 🚀 Love participating in **hackathons** and building **impactful projects**  
+- 🌱 Focused on learning, improving, and shipping real-world applications  
+- 🌍 Passionate about tech for **social good & rural impact**
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 **Tracklyst — Coding Progress Tracker**
+Chrome extension + Firebase backend to track LeetCode/HackerRank submissions.
+
+### 🔹 **IoT Smart Safety System**
+Biometrics, RFID, GSM, and sensors for secure access & health monitoring.
+
+### 🔹 **Visual Query Builder**
+Drag-and-drop interface to build SQL queries without writing code.
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omen-bit&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" />
-  <img src="https://streak-stats.demolab.com?user=Omen-bit&theme=radical&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moon-chm&show_icons=true&count_private=true&theme=rose_pine&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=moon-chm&theme=radical&hide_border=false" height="150" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=moon-chm&theme=radical&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
 </div>
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
-<div align="left">
-  <a href="https://www.instagram.com/" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
+<div align="center">
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
   </a>
-  <a href="mailto:rohitak1865@gmail.com" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
+  <a href="mailto:rohitak1865@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rohitkumbhar1865/" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/rohitkumbhar1865/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" />
   </a>
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
   </a>
 </div>
