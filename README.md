@@ -82,7 +82,7 @@ me.say_hi()
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,github,postman,linux,arduino,raspberrypi&perline=6" />
+<img src="https://skillicons.dev/icons?i=vscode,github,postman,linux,arduino,raspberrypi,touchdesigner&perline=6" />
 
 </div>
 
@@ -173,7 +173,7 @@ me.say_hi()
 </a>
 <a href="https://www.instagram.com/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+</a> 
 <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
 </a>
